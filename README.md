@@ -38,4 +38,4 @@
   
   [구글](https://www.google.com, "구글링은 여기서")
 
-![사진이름](./사진이름.jpg)
+![soodal](./soodal.jpg)
